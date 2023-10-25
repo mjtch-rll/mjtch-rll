@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @mjtch-rll
-- 👀 I’m interested in Web3, Web2, serving the common human, data sovereignty, privacy, fun, the best of human nature and the tools and spaces which bring it.
-- 🌱 I’m currently learning a whole lot, all the time; I'm a complete noob - I'd say my biggest learning is how to setup environments, I can read documentation, begin to understand others' code but setting up a damn environment so I can safely build and test things- I'm really needing that.
- - aka: DevOps? Git, JS, React, Node, Web3, GraphQL
- - Web Scraping, ArWeave Permaweb
-- 💞️ I’m looking to collaborate on an Archiving project, an integration between Bubble.io and ArWeave's Permaweb, a book club/community platform,
-- 📫 Email me at inspiredmjr@gmail.com.
+Hi there, the world needs good things, for God's sake.
+I'm looking to build Permaweb applications on Arweave.
+Currently I can hack my way through a svelte/kit app, it's a struggle, but with God all things are possible.
